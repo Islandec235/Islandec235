@@ -1,6 +1,6 @@
 <div id="header" align="center">
 <h1>Hi there, I'm Danila</h1> 
-<h3 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&pause=2000&color=3CF73B&center=true&vCenter=true&width=435&lines=Java+Developer+from+Moscow" alt="Typing SVG" /></a></h3>
+<h3 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&pause=2000&color=3CF73B&center=true&vCenter=true&width=435&lines=Java+Developer" alt="Typing SVG" /></a></h3>
   <a href="https://t.me/dnldmntv"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"</a><a href="https://leetcode.com/u/Islandec235"><img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=orange"</a>
 </div>
 <div id="stack">
